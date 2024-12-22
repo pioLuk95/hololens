@@ -42,3 +42,8 @@ I wrzucamy do projektu: Library->PlayerDataCache->WindowsStoreApps->Data-> i tu 
 To tyle - działamy
 
 
+![build-settings](https://github.com/user-attachments/assets/39c7ea76-cc32-48cb-8fb4-25790f781ea8)
+![visual-project-settings](https://github.com/user-attachments/assets/94165682-1bbf-4055-b870-3fdc1b433e60)
+
+
+
