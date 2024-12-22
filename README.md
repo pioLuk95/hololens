@@ -28,6 +28,17 @@ W skrócie: Mamy utworzony projekt na frameworku MRTK. Jest dodana obsługa Gaze
 Utworzony jest element DartSpawnManager - jest to niewidoczny element, pod który podpięty jest customowy skrypt. Ten skrypt powinien na gesty "pinch" tworzyć statyczny obiekt rzutki Dartowej. Tutaj zadanie ma ktoś inny, bo uruchamiając apkę w Unity - działa. Kliknięcie myszy robi nową rzutkę. Gorzej z emulatorem, bo tam rzutka pojawia się tylko, jeśli zmienicie input na klawiaturę, a nie "ludzki". To jest pewnie kwestia researchu na temat tego jak symulować dobrze gesty w emulatorze (Gdzie i tak faktycznie wyjdzie to w praniu na fizycznych hololensach).
 
 
+# Instalacja
+
+WAŻNE!!!!!!
+
+Z racji problemów GIT'a z jednym z dużych plików, trzeba go przerzucić ręcznie. Nie wiem czy jest na 100% potrzebny - można sprawdzić.
+
+Plik pobieramy z dysku: https://drive.google.com/file/d/1gD8j8jhvwR8NuTIgf1ncdbWKwUNIgmlT/view?usp=sharing
+
+I wrzucamy do projektu: Library->PlayerDataCache->WindowsStoreApps->Data-> i tu wkleić
+
+
 To tyle - działamy
 
 
