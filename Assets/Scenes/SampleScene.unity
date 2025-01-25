@@ -394,6 +394,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 77889593678184996, guid: 79dc54ef80592400bb0019da7256624b,
+        type: 3}
+      propertyPath: m_Name
+      value: HitArea.080
+      objectReference: {fileID: 0}
     - target: {fileID: 644162547015371754, guid: 79dc54ef80592400bb0019da7256624b,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -559,6 +564,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
+    - target: {fileID: 5388035639086939656, guid: 79dc54ef80592400bb0019da7256624b,
+        type: 3}
+      propertyPath: m_Name
+      value: HitArea.BullsEye
+      objectReference: {fileID: 0}
     - target: {fileID: 5414854806787297767, guid: 79dc54ef80592400bb0019da7256624b,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -619,6 +629,11 @@ PrefabInstance:
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: e73a58f6e2794ae7b1b7e50b7fb811b0, type: 2}
+    - target: {fileID: 8616908728061485230, guid: 79dc54ef80592400bb0019da7256624b,
+        type: 3}
+      propertyPath: m_Name
+      value: HitArea.Center
+      objectReference: {fileID: 0}
     - target: {fileID: 8804849043526992123, guid: 79dc54ef80592400bb0019da7256624b,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
